@@ -1,4 +1,8 @@
 # django-bulma-todo-app
+
+![](https://drive.google.com/file/d/1DyLTNYMB5Rt6L3OBI9pGjoKclb4q_Wc6/view?usp=sharing)
+
+
 ## Introduction
 
 This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and Bulma.
