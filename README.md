@@ -1,6 +1,6 @@
 # django-bulma-todo-app
 
-![](https://drive.google.com/file/d/1DyLTNYMB5Rt6L3OBI9pGjoKclb4q_Wc6/view?usp=sharing)
+![todo app](https://i.ibb.co/fdwH9wD/Screenshot-from-2022-02-28-18-04-40.png)
 
 
 ## Introduction
